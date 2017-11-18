@@ -9,6 +9,7 @@ public class GitTestApplication {
 		System.out.println("Hello World");
 		System.out.println("Hello a 2nd time");
 		System.out.println("Hello a 3rd time");
+		System.out.println("Hello a 4th time - made by a different user");
 
 	}
 
